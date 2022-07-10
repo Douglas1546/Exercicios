@@ -1,1 +1,1 @@
-# INTRODUÇÃO À CIÊNCIA DE DADOS
+# Exercícios
